@@ -1,0 +1,1 @@
+the easiest way to make this game is to separate the class in may ruby files EX : boardcase.rb, board.rb player.rb ... but it can also be donne in one file as this one.
